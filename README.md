@@ -1,4 +1,4 @@
-# OnsenUI/recent-activities
+# recent-activities
 
 Recent activities data of Onsen UI Team, used in the website of Onsen UI.
 
