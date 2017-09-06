@@ -21,6 +21,6 @@ Changes on the files will immediately reflect to the website.
 
 ### Structure of the files
 
-Each of `recent-activities-en.md` and `recent-activities-ja.md` must be a valid JSON file.
+Each of `recent-activities-en.json` and `recent-activities-ja.json` must be a valid JSON file.
 
 You can use `date`, `title` and `description` properties for each item. `title` and `description` will be rendrered with `v-html` of Vue, so you can use any HTML syntax for these two properties.
