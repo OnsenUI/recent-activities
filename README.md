@@ -8,7 +8,7 @@ Recent activities data of Onsen UI Team, used in the website of Onsen UI.
 
 The contents of this repository are loaded by the website via `raw.github.com`. The website requests a specific file based on the following rule.
 
-|`location.hostname`|File path|
+|`location.hostname`|File|
 |-|-|
 |`onsen.io`|`recent-activities-en.md` (in `master` branch)|
 |`s.onsen.io`|`recent-activities-en.md` (in `master` branch)|
