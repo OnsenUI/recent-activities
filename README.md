@@ -12,8 +12,8 @@ The contents of this repository are loaded by the website via `raw.github.com`. 
 |-|-|
 |`onsen.io`|`recent-activities-en.md` (in `master` branch)|
 |`s.onsen.io`|`recent-activities-en.md` (in `master` branch)|
-|`s.ja.onsen.io`|`recent-activities-ja.md` (in `master` branch)|
 |`ja.onsen.io`|`recent-activities-ja.md` (in `master` branch)|
+|`s.ja.onsen.io`|`recent-activities-ja.md` (in `master` branch)|
 |`localhost`|`recent-activities-en.md` (in `dev` branch)|
 |`127.0.0.1`|`recent-activities-en.md` (in `dev` branch)|
 
