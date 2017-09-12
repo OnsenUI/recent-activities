@@ -30,7 +30,7 @@ You can use `date`, `title` and `description` properties for each item.
 
 ### Example
 
-```js
+```
 [
   {
     date: 2017-09-10T00:00:00+09:00
