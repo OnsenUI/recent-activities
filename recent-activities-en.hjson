@@ -9,7 +9,7 @@
       </p>
       <p>
         If you are using <code>angular2-onsenui</code>,
-        we recommend you <a href="https://onsen.io/v2/guide/angular2/index.html#setup">updating it to <code>ngx-onsenui</code></a>.
+        we recommend <a href="https://onsen.io/v2/guide/angular2/index.html#setup">updating it to <code>ngx-onsenui</code></a>.
       </p>
       '''
   },
