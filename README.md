@@ -24,3 +24,34 @@ Changes on the files will immediately reflect to the website.
 Each of `recent-activities-en.hjson` and `recent-activities-ja.hjson` must be a valid [Hjson](https://hjson.org/) file.
 
 You can use `date`, `title` and `description` properties for each item. `title` and `description` will be rendrered with `v-html` of Vue, so you can use any HTML syntax for these two properties.
+
+### Example
+
+```js
+[
+  {
+    date: 2017-09-10T00:00:00+09:00
+    title: Onsen UI 9.9.9 Released
+    description:
+      '''
+      Lorem ipsum
+      '''
+  },
+  {
+    date: 2017-09-01T00:00:00+09:00
+    title:
+      '''
+      <a href="#" style="color: #444;">hoge-onsenui</a> 1.7.0 Released
+      '''
+    description:
+      '''
+      <p>
+        Supported Hoge 2.0.
+        <a href="#">Release Note</a>
+        <br>
+        <code>npm install hoge-onsenui --save</code>
+      </p>
+      '''
+  },
+]
+```
