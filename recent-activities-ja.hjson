@@ -1,5 +1,18 @@
 [
   {
+    date: 2017-09-12T22:30:00+09:00
+    title: <a href="https://tutorial.onsen.io/?framework=angular2&category=reference&module=page" style="color: #444; text-decoration: underline;" target="_blank">チュートリアル</a> 更新
+    description:
+      '''
+      <p>
+        <a href="https://tutorial.onsen.io/?framework=angular2&category=reference&module=page" target="_blank"><code>ngx-onsenui</code> のサンプルコード</a>を更新しました</a>.
+      </p>
+      <p>
+        もし <code>angular2-onsenui</code> をお使いの場合は、<a href="https://ja.onsen.io/v2/guide/angular2/index.html#ngx-onsenui-nosettoappu"><code>ngx-onsenui</code> へのアップデート</a>をご検討ください。
+      </p>
+      '''
+  },
+  {
     date: 2017-09-11T12:00:00+09:00
     title: Web サイト 復旧
     description:
@@ -17,7 +30,7 @@
   },
   {
     date: 2017-09-07T00:00:00+09:00
-    title: Web サイトを更新
+    title: Web サイト 更新
     description:
       '''
       ページの右上隅に更新履歴を追加しました。
