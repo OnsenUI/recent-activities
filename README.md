@@ -23,7 +23,10 @@ Changes on the files will immediately reflect to the website.
 
 Each of `recent-activities-en.hjson` and `recent-activities-ja.hjson` must be a valid [Hjson](https://hjson.org/) file.
 
-You can use `date`, `title` and `description` properties for each item. `title` and `description` will be rendrered with `v-html` of Vue, so you can use any HTML syntax for these two properties.
+You can use `date`, `title` and `description` properties for each item.
+
+- `date` property will be parsed with [`moment(String)`](https://momentjs.com/docs/#/parsing/string/). Please do not forget adding an offset string. Otherwise, `date` will be parsed based on user's timezone and cause an error of ± 24 hours.
+- `title` and `description` properties will be rendrered with `v-html` of Vue, so you can use any HTML syntax for these two properties.
 
 ### Example
 
