@@ -1,5 +1,19 @@
 [
   {
+    date: 2017-09-12T22:30:00+09:00
+    title: <a href="https://tutorial.onsen.io/?framework=angular2&category=reference&module=page" style="color: #444; text-decoration: underline;" target="_blank">Playground</a> Updated
+    description:
+      '''
+      <p>
+        Updated <a href="https://tutorial.onsen.io/?framework=angular2&category=reference&module=page" target="_blank">the <code>ngx-onsenui</code> examples</a>.
+      </p>
+      <p>
+        If you are using <code>angular2-onsenui</code>,
+        we recommend you <a href="https://onsen.io/v2/guide/angular2/index.html#setup">updating it to <code>ngx-onsenui</code></a>.
+      </p>
+      '''
+  },
+  {
     date: 2017-09-07T00:00:00+09:00
     title: Website Updated
     description:
