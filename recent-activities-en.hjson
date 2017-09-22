@@ -1,5 +1,21 @@
 [
   {
+    date: 2017-09-22T19:00:00+09:00
+    title: <a href="https://github.com/OnsenUI/OnsenUI-dist/releases/tag/2.6.0" style="color: #444; text-decoration: underline;" target="_blank">Onsen UI 2.6.0</a> Released
+    description:
+      '''
+      <p>
+        Onsen UI 2.6.0 is here! It comes with an amazing swiping tabbar and a new segment component. Bindings for Vue (2.2.0) and React (1.6.0) are also released.
+      </p>
+      <p>
+        Updated <a href="https://onsenui.github.io/vue-onsenui-kitchensink/">Vue Kitchensink App</a> with the latest features. Looks awesome, check it out!
+      </p>
+      <p>
+        Updated <a href="https://tutorial.onsen.io/?framework=vanilla&category=reference&module=tabbar" target="_blank">playground tutorials</a> for tabbar and segment.
+      </p>
+      '''
+  },
+  {
     date: 2017-09-12T22:30:00+09:00
     title: <a href="https://tutorial.onsen.io/?framework=angular2&category=reference&module=page" style="color: #444; text-decoration: underline;" target="_blank">Playground</a> Updated
     description:
