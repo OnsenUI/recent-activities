@@ -1,5 +1,15 @@
 [
   {
+    date: 2017-09-28T18:00:00+09:00
+    title: <a href="https://github.com/OnsenUI/OnsenUI-dist/releases/tag/2.6.1" style="color: #444; text-decoration: underline;" target="_blank">Onsen UI 2.6.1</a> Released
+    description:
+      '''
+      <p>
+        A bunch of bug fixes are included in this release. Better support for iOS 8 and Android 4.4.4.
+      </p>
+      '''
+  },
+  {
     date: 2017-09-22T19:00:00+09:00
     title: <a href="https://github.com/OnsenUI/OnsenUI-dist/releases/tag/2.6.0" style="color: #444; text-decoration: underline;" target="_blank">Onsen UI 2.6.0</a> Released
     description:
