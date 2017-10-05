@@ -1,7 +1,7 @@
 [
   {
     date: 2017-09-12T22:30:00+09:00
-    title: <a href="https://tutorial.onsen.io/?framework=angular2&category=reference&module=page" style="color: #444; text-decoration: underline;" target="_blank">チュートリアル</a> 更新
+    title: <a href="https://tutorial.onsen.io/?framework=angular2&category=reference&module=page" style="text-decoration: underline;" target="_blank">チュートリアル</a> 更新
     description:
       '''
       <p>
