@@ -16,7 +16,7 @@
       <a class="card-anchor" href="https://medium.com/the-web-tub/improve-ux-with-swiping-tab-bar-using-onsen-ui-for-vue-4c7d0e5171f0" target="_blank">
         <div class="card" style="margin-top: 8px;">
           <div class="card-image">
-            <img src="https://onsenui.github.io/recent-activities/images/2017/Oct/swiping-tab-bar.gif">
+            <img src="https://raw.githubusercontent.com/OnsenUI/recent-activities/images/2017/Oct/swiping-tab-bar.gif">
           </div>
           <div class="card-content">
             <div class="card-content-title">
