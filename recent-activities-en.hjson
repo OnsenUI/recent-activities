@@ -1,7 +1,43 @@
 [
   {
+    date: 2017-10-05T22:30:00+09:00
+    title:
+      '''
+      <a href="https://medium.com/the-web-tub/improve-ux-with-swiping-tab-bar-using-onsen-ui-for-vue-4c7d0e5171f0" target="_blank">We are on Medium!</a>
+      '''
+    description:
+      '''
+      <p>
+        We launched
+        <a href="https://medium.com/the-web-tub" target="_blank">The Web Tub</a>,
+        a new publication on Medium.
+        This is our first article about Onsen UI.
+      </p>
+      <a class="card-anchor" href="https://medium.com/the-web-tub/improve-ux-with-swiping-tab-bar-using-onsen-ui-for-vue-4c7d0e5171f0" target="_blank">
+        <div class="card" style="margin-top: 8px;">
+          <div class="card-image">
+            <img src="https://onsenui.github.io/recent-activities/images/2017/Oct/swiping-tab-bar.gif">
+          </div>
+          <div class="card-content">
+            <div class="card-content-title">
+              Improve UX with Swiping Tab Bar Using Onsen UI for Vue
+            </div>
+            <div class="card-content-text">
+              A swiping tab bar splits the content into different pages and
+              allows the user bringing the desired page into view with his/her
+              own finger. Improve the UX of your Vue apps with this component.
+            </div>
+            <div class="card-content-source">
+              Medium
+            </div>
+          </div>
+        </div>
+      </a>
+      '''
+  },
+  {
     date: 2017-09-28T18:00:00+09:00
-    title: <a href="https://github.com/OnsenUI/OnsenUI-dist/releases/tag/2.6.1" style="color: #444; text-decoration: underline;" target="_blank">Onsen UI 2.6.1</a> Released
+    title: <a href="https://github.com/OnsenUI/OnsenUI-dist/releases/tag/2.6.1" style="text-decoration: underline;" target="_blank">Onsen UI 2.6.1</a> Released
     description:
       '''
       <p>
@@ -11,7 +47,7 @@
   },
   {
     date: 2017-09-22T19:00:00+09:00
-    title: <a href="https://github.com/OnsenUI/OnsenUI-dist/releases/tag/2.6.0" style="color: #444; text-decoration: underline;" target="_blank">Onsen UI 2.6.0</a> Released
+    title: <a href="https://github.com/OnsenUI/OnsenUI-dist/releases/tag/2.6.0" style="text-decoration: underline;" target="_blank">Onsen UI 2.6.0</a> Released
     description:
       '''
       <p>
@@ -27,7 +63,7 @@
   },
   {
     date: 2017-09-12T22:30:00+09:00
-    title: <a href="https://tutorial.onsen.io/?framework=angular2&category=reference&module=page" style="color: #444; text-decoration: underline;" target="_blank">Playground</a> Updated
+    title: <a href="https://tutorial.onsen.io/?framework=angular2&category=reference&module=page" style="text-decoration: underline;" target="_blank">Playground</a> Updated
     description:
       '''
       <p>
