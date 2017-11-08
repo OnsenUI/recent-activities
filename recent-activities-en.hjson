@@ -1,5 +1,42 @@
 [
   {
+    date: 2017-11-08T21:00:00+09:00
+    title:
+      '''
+      <a href="https://medium.com/the-web-tub/supporting-iphone-x-for-mobile-web-cordova-app-using-onsen-ui-f17a4c272fcd" target="_blank">Onsen UI 2.7 Released</a>
+      '''
+    description:
+      '''
+      <p>
+        <span style="font-weight: 700;">iPhone X is now fully supported!</span>
+        This release includes a patch for iPhone X.
+      </p>
+      <p>
+        This blog post explains how to enable the patch and more:
+      </p>
+      <a class="card-anchor" href="https://medium.com/the-web-tub/supporting-iphone-x-for-mobile-web-cordova-app-using-onsen-ui-f17a4c272fcd" target="_blank">
+        <div class="card" style="margin-top: 8px;">
+          <div class="card-image">
+            <img src="https://raw.githubusercontent.com/OnsenUI/recent-activities/master/images/2017/Nov/iphonex.gif">
+          </div>
+          <div class="card-content">
+            <div class="card-content-title">
+              Supporting iPhone X for mobile web & Cordova app using Onsen UI
+            </div>
+            <div class="card-content-text">
+              iPhone X is the latest model of Apple’s iPhone series unveiled
+              in September 2017. This unique & eloquent handset will be sold
+              worldwide from November 3rd. At the first glance you will notice...
+            </div>
+            <div class="card-content-source">
+              Medium
+            </div>
+          </div>
+        </div>
+      </a>
+      '''
+  },
+  {
     date: 2017-10-05T23:00:00+09:00
     title:
       '''
