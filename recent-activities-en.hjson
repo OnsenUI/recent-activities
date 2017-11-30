@@ -1,9 +1,45 @@
 [
   {
+    date: 2017-11-30T19:30:00+09:00
+    title:
+      '''
+      <a href="https://medium.com/the-web-tub/d2b99e594aef" target="_blank">Onsen UI 2.8 Released</a>
+      '''
+    description:
+      '''
+      <p>
+        The new Onsen UI 2.8 comes with some interesting changes: <span style="font-weight: 700;">bundle size reduced</span>, <span style="font-weight: 700;">self-contained components</span> and more!
+      </p>
+      <p>
+        All the changes explained in this article:
+      </p>
+      <a class="card-anchor" href="https://medium.com/the-web-tub/d2b99e594aef" target="_blank">
+        <div class="card" style="margin-top: 8px;">
+          <div class="card-image">
+            <img src="https://raw.githubusercontent.com/OnsenUI/recent-activities/master/images/2017/Nov/bundle-size.png">
+          </div>
+          <div class="card-content">
+            <div class="card-content-title">
+              New in Onsen UI 2.8: App size is much smaller than before!
+            </div>
+            <div class="card-content-text">
+              The new version of Onsen UI (2.8.x) was released some days ago
+              with some interesting changes: Bundle Size 50% Down!
+              Since v2.2.0 we have been refactoring all...
+            </div>
+            <div class="card-content-source">
+              Medium
+            </div>
+          </div>
+        </div>
+      </a>
+      '''
+  },
+  {
     date: 2017-11-08T21:00:00+09:00
     title:
       '''
-      <a href="https://medium.com/the-web-tub/supporting-iphone-x-for-mobile-web-cordova-app-using-onsen-ui-f17a4c272fcd" target="_blank">Onsen UI 2.7 Released</a>
+      <a href="https://medium.com/the-web-tub/f17a4c272fcd" target="_blank">Onsen UI 2.7 Released</a>
       '''
     description:
       '''
@@ -14,7 +50,7 @@
       <p>
         This blog post explains how to enable the patch and more:
       </p>
-      <a class="card-anchor" href="https://medium.com/the-web-tub/supporting-iphone-x-for-mobile-web-cordova-app-using-onsen-ui-f17a4c272fcd" target="_blank">
+      <a class="card-anchor" href="https://medium.com/the-web-tub/f17a4c272fcd" target="_blank">
         <div class="card" style="margin-top: 8px;">
           <div class="card-image">
             <img src="https://raw.githubusercontent.com/OnsenUI/recent-activities/master/images/2017/Nov/iphonex.gif">
@@ -40,7 +76,7 @@
     date: 2017-10-05T23:00:00+09:00
     title:
       '''
-      <a href="https://medium.com/the-web-tub/improve-ux-with-swiping-tab-bar-using-onsen-ui-for-vue-4c7d0e5171f0" target="_blank">We are on Medium!</a>
+      <a href="https://medium.com/the-web-tub/4c7d0e5171f0" target="_blank">We are on Medium!</a>
       '''
     description:
       '''
@@ -50,7 +86,7 @@
         a new publication on Medium.
         This is our first article about Onsen UI.
       </p>
-      <a class="card-anchor" href="https://medium.com/the-web-tub/improve-ux-with-swiping-tab-bar-using-onsen-ui-for-vue-4c7d0e5171f0" target="_blank">
+      <a class="card-anchor" href="https://medium.com/the-web-tub/4c7d0e5171f0" target="_blank">
         <div class="card" style="margin-top: 8px;">
           <div class="card-image">
             <img src="https://raw.githubusercontent.com/OnsenUI/recent-activities/master/images/2017/Oct/swiping-tab-bar.gif">
