@@ -52,11 +52,8 @@
       </p>
       <a class="card-anchor" href="https://medium.com/the-web-tub/f17a4c272fcd" target="_blank">
         <div class="card" style="margin-top: 8px;">
-          <div class="card-image">
-            <img src="https://raw.githubusercontent.com/OnsenUI/recent-activities/master/images/2017/Nov/iphonex.gif">
-          </div>
           <div class="card-content">
-            <div class="card-content-title">
+            <div class="card-content-title" style="margin-top: 4px;">
               Supporting iPhone X for mobile web & Cordova app using Onsen UI
             </div>
             <div class="card-content-text">
@@ -88,11 +85,8 @@
       </p>
       <a class="card-anchor" href="https://medium.com/the-web-tub/4c7d0e5171f0" target="_blank">
         <div class="card" style="margin-top: 8px;">
-          <div class="card-image">
-            <img src="https://raw.githubusercontent.com/OnsenUI/recent-activities/master/images/2017/Oct/swiping-tab-bar.gif">
-          </div>
           <div class="card-content">
-            <div class="card-content-title">
+            <div class="card-content-title" style="margin-top: 4px;">
               Improve UX with Swiping Tab Bar Using Onsen UI for Vue
             </div>
             <div class="card-content-text">
