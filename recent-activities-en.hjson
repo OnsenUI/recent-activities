@@ -1,5 +1,40 @@
 [
   {
+    date: 2018-01-19T11:30:00+09:00
+    title:
+      '''
+      <a href="https://medium.com/the-web-tub/onsen-ui-dark-theme-customization-f4780e71746e" target="_blank">New Theme Roller and Dark Theme!</a>
+      '''
+    description:
+      '''
+      <p>
+        A new <strong>dark theme</strong> for Onsen UI and an updated version of the online <strong>Theme Roller</strong> were released!
+      </p>
+      <p>
+        Check out the <a href="/theme-roller"><strong>Components section</strong></a> to see it in action or read the next article for more information:
+      </p>
+      <a class="card-anchor" href="https://medium.com/the-web-tub/onsen-ui-dark-theme-customization-f4780e71746e" target="_blank">
+        <div class="card" style="margin-top: 8px;">
+          <div class="card-image">
+            <img src="https://cdn-images-1.medium.com/max/2000/1*uCqEJflFx60g-BlVFKmXhA.png">
+          </div>
+          <div class="card-content">
+            <div class="card-content-title">
+              Onsen UI Dark & Theme Customization
+            </div>
+            <div class="card-content-text">
+              The new Onsen UI Theme Roller app is alive! Make your own theme
+              or just tweak the existing ones easily with this new online tool...
+            </div>
+            <div class="card-content-source">
+              Medium
+            </div>
+          </div>
+        </div>
+      </a>
+      '''
+  },
+  {
     date: 2017-11-30T19:30:00+09:00
     title:
       '''
