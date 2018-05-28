@@ -1,5 +1,38 @@
 [
   {
+    date: 2018-05-28T12:30:00+09:00
+    title:
+      '''
+      <a href="https://medium.com/the-web-tub/expandable-list-items-in-onsen-ui-2-10-7a42b7f7841c" target="_blank">Onsen UI 2.10 Released</a>
+      '''
+    description:
+      '''
+      <p>
+        Onsen UI 2.10 has been released, adding support for much-requested <strong>expandable list items</strong> (also known as accordions).
+      </p>
+      <p>
+        This blog post explains in detail how to use expandable list items with Onsen UI 2.10:
+      </p>
+      <a class="card-anchor" href="https://medium.com/the-web-tub/expandable-list-items-in-onsen-ui-2-10-7a42b7f7841c" target="_blank">
+        <div class="card" style="margin-top: 8px;">
+          <div class="card-content">
+            <div class="card-content-title" style="margin-top: 4px;">
+              Expandable list items in Onsen UI 2.10
+            </div>
+            <div class="card-content-text">
+              Expandable list items are much like regular items in an
+              Onsen UI list, except that they can be expanded to reveal
+              hidden content. They're really easy ...
+            </div>
+            <div class="card-content-source">
+              Medium
+            </div>
+          </div>
+        </div>
+      </a>
+      '''
+  },
+  {
     date: 2018-01-19T11:30:00+09:00
     title:
       '''
