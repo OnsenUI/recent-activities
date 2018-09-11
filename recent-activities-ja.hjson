@@ -1,5 +1,20 @@
 [
   {
+    date: 2018-09-11T15:30:00+09:00
+    title: ガイド 更新
+    description:
+      '''
+      <p>以下の5ページを新しく追加しました。</p>
+      <p>
+        <a href="/v2/guide/lifecycle.html">Advanced &gt; ページのライフサイクル</a><br>
+        <a href="/v2/guide/theming.html">Advanced &gt; テーマのカスタマイズ</a><br>
+        <a href="/v2/guide/appsize.html">Advanced &gt; アプリサイズの削減</a><br>
+        <a href="/v2/guide/build.html">Advanced &gt; Onsen UIのビルド</a><br>
+        <a href="/v2/guide/extend.html">Advanced &gt; Onsen UIの拡張</a>
+      </p>
+      '''
+  },
+  {
     date: 2018-08-27T10:30:00+09:00
     title: ガイド 更新
     description:
