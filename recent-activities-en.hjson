@@ -1,5 +1,25 @@
 [
   {
+    date: 2022-05-10T16:13:04+09:00
+    title:
+      '''
+      Onsen UI 2.12 Released</a>
+      '''
+    description:
+      '''
+      <p>
+        Onsen UI 2.12 has been released, adding many consistency improvements and bug fixes.
+      </p>
+      <ul>
+        <li>Distribution as ES modules written in ES6 for modern browsers</li>
+        <li>Many more properties added to reflect existing attributes</li>
+        <li>Removal of ons-template</li>
+      </ul>
+      <p>For the full list of changes, see the <a href="https://github.com/OnsenUI/OnsenUI/blob/2.12.0/onsenui/CHANGELOG.md">CHANGELOG</a>.</p>
+      <p>This release contains <strong>BREAKING CHANGES</strong> so make sure to read the <a href="https://github.com/OnsenUI/OnsenUI/blob/2.12.0/onsenui/CHANGELOG.md">CHANGELOG</a> when upgrading from an older version of Onsen UI.</p>
+      '''
+  },
+  {
     date: 2018-05-28T12:30:00+09:00
     title:
       '''
