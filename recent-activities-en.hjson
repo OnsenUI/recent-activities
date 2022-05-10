@@ -1,5 +1,22 @@
 [
   {
+    date: 2022-05-10T16:29:01+09:00
+    title:
+      '''
+      react-onsenui 1.12 Released with React 17 support</a>
+      '''
+    description:
+      '''
+      <p>
+        react-onsenui 1.12 has been released, adding support for React 17 and many bug fixes.
+      </p>
+      <p>
+        For the full list of changes, see the <a href="https://github.com/OnsenUI/OnsenUI/blob/45b036e25eea02ef9b4af59d1c9e783bc312e7a7/react-onsenui/CHANGELOG.md">CHANGELOG.</a>
+      </p>
+      <p>This release contains <strong>BREAKING CHANGES</strong> so make sure to read the <a href="https://github.com/OnsenUI/OnsenUI/blob/2.12.0/onsenui/CHANGELOG.md">onsenui CHANGELOG</a> and the <a href="https://github.com/OnsenUI/OnsenUI/blob/45b036e25eea02ef9b4af59d1c9e783bc312e7a7/react-onsenui/CHANGELOG.md">react-onsenui CHANGELOG</a> when upgrading from an older version of Onsen UI.</p>
+      '''
+  },
+  {
     date: 2022-05-10T16:13:04+09:00
     title:
       '''
