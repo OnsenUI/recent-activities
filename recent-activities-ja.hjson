@@ -1,5 +1,47 @@
 [
   {
+    date: 2022-06-21T14:01:47+09:00
+    title:
+      '''
+      React17対応 react-onsenui 1.12 リリース
+      '''
+    description:
+      '''
+      <p>
+react-onsenui 1.12 をリリースしました。React 17 のサポートと多くのバグ修正が追加されています。
+      </p>
+      <p>
+変更点の全リストは <a href="https://github.com/OnsenUI/OnsenUI/blob/45b036e25eea02ef9b4af59d1c9e783bc312e7a7/react-onsenui/CHANGELOG.md">CHANGELOG.</a>を参照してください。
+      </p>
+      <p>
+このリリースには破滅的な変更が含まれています。古いバージョンのOnsen UIからアップグレードする場合は、<a href="https://github.com/OnsenUI/OnsenUI/blob/2.12.0/onsenui/CHANGELOG.md">onsenui CHANGELOG</a>と<a href="https://github.com/OnsenUI/OnsenUI/blob/45b036e25eea02ef9b4af59d1c9e783bc312e7a7/react-onsenui/CHANGELOG.md">react-onsenui CHANGELOG</a>をご確認ください。
+      '''
+  },
+  {
+    date: 2022-06-21T14:01:38+09:00
+    title:
+      '''
+      Onsen UI 2.12 リリース
+      '''
+    description:
+      '''
+      <p>
+        Onsen UI 2.12 をリリースしました。多くの改善とバグ修正を追加しています。
+      </p>
+      <ul>
+        <li>モダンブラウザ用に ES6 で書かれた ES モジュールとして配布</li>
+        <li>既存の属性を反映させるために、多くのプロパティを追加</li>
+        <li>ons-template の削除</li>
+      </ul>
+      <p>
+      変更点の全リストは、<a href="https://github.com/OnsenUI/OnsenUI/blob/2.12.0/onsenui/CHANGELOG.md">CHANGELOG</a>を参照してください。
+      </p>
+      <p>
+      このリリースには、破壊的な変更が含まれています。Onsen UI の古いバージョンからアップグレードする場合は、<a href="https://github.com/OnsenUI/OnsenUI/blob/2.12.0/onsenui/CHANGELOG.md">CHANGELOG</a>を必ずお読みください。
+      </p>
+      '''
+  },
+  {
     date: 2018-09-11T15:30:00+09:00
     title: ガイド 更新
     description:
