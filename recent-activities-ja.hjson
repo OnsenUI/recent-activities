@@ -1,5 +1,21 @@
 [
   {
+    date: 2022-07-25T07:36:01+01:00
+    title:
+      '''
+      React18対応 react-onsenui 1.13 リリース
+      '''
+    description:
+      '''
+      <p>
+react-onsenui 1.13 をリリースしました。React 18 のサポートが追加されています。
+      </p>
+      <p>
+変更点の全リストは <a href="https://github.com/OnsenUI/OnsenUI/blob/1683d08c83e0112a3ea7fed661544169d91fd2f5/react-onsenui/CHANGELOG.md">CHANGELOG.</a>を参照してください。
+      </p>
+      '''
+  },
+  {
     date: 2022-06-21T14:01:47+09:00
     title:
       '''
