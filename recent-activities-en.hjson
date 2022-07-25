@@ -1,5 +1,27 @@
 [
   {
+    date: 2022-07-25T10:48:00+01:00
+    title:
+      '''
+      vue-onsenui 3.0.0 with support for Vue 3 released
+      '''
+    description:
+      '''
+      <p>
+        vue-onsenui 3.0.0 has been released, adding support for Vue 3.
+      </p>
+      <p>
+        This is a major release with breaking changes, so we have created a <a href="http://onsen.io/v2/guide/vue3/index.html#upgrading-from-vue-2">migration guide</a> for upgrading Onsen UI apps to Vue 3.
+      </p>
+      <p>
+        For the full list of changes, see the <a href="https://github.com/OnsenUI/OnsenUI/blob/master/vue3-onsenui/CHANGELOG.md">CHANGELOG.</a>
+      </p>
+      <p>
+        Vue 2 will continue to be supported. Releases for vue-onsenui v2.x.x are for Vue 2, and releases for Vue 3 will be versioned v3.x.x. Vue 2 releases will be released under the vue-onsenui@legacy tag and Vue 3 releases will be released under the vue-onsenui@latest tag.
+      </p>
+      '''
+  },
+  {
     date: 2022-07-25T07:36:01+01:00
     title:
       '''
