@@ -1,5 +1,21 @@
 [
   {
+    date: 2022-09-26T10:48:00+01:00
+    title:
+      '''
+      The Community Forum is shutting down.
+      '''
+    description:
+      '''
+      <p>
+        For Onsen UI bug reports, feature requests and questions, please use the <a href="https://github.com/OnsenUI/OnsenUI/issues/">Onsen UI GitHub issues page</a>.
+      </p>
+      <p>
+        Thank you to all our community for your contributions to the forum. We look forward to hearing from you in the new communication channels.
+      </p>
+      '''
+  },
+  {
     date: 2022-07-25T10:48:00+01:00
     title:
       '''
