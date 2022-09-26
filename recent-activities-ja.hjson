@@ -3,15 +3,15 @@
     date: 2022-09-26T10:48:00+01:00
     title:
       '''
-      The Community Forum is shutting down.
+      コミュニティ・フォーラム閉鎖のご案内
       '''
     description:
       '''
       <p>
-        For Onsen UI bug reports, feature requests and questions, please use the <a href="https://github.com/OnsenUI/OnsenUI/issues/">Onsen UI GitHub issues page</a>.
+        Onsen UI のバグレポート、機能リクエスト、質問などは、 <a href="https://github.com/OnsenUI/OnsenUI/issues/">GitHub issues ページ</a>をご利用ください。
       </p>
       <p>
-        Thank you to all our community for your contributions to the forum. We look forward to hearing from you in the new communication channels.
+        コミュニティの皆様、フォーラムへの投稿ありがとうございました。新しいコミュニケーションチャネルで皆様からのご連絡をお待ちしております。
       </p>
       '''
   },
@@ -19,21 +19,18 @@
     date: 2022-07-25T10:48:00+01:00
     title:
       '''
-      vue-onsenui 3.0.0 with support for Vue 3 released
+      Vue 3をサポートしたvue-onsenui 3.0.0がリリースされました。
       '''
     description:
       '''
       <p>
-        vue-onsenui 3.0.0 has been released, adding support for Vue 3.
+        今回のリリースは大きな変更点があるため、Onsen UIアプリをVue 3にアップグレードするための<a href="http://onsen.io/v2/guide/vue3/index.html#upgrading-from-vue-2">ガイド</a>を用意しております。
       </p>
       <p>
-        This is a major release with breaking changes, so we have created a <a href="http://onsen.io/v2/guide/vue3/index.html#upgrading-from-vue-2">migration guide</a> for upgrading Onsen UI apps to Vue 3.
+        変更点の全リストは、<a href="https://github.com/OnsenUI/OnsenUI/blob/master/vue3-onsenui/CHANGELOG.md">こちら</a>をご覧ください。
       </p>
       <p>
-        For the full list of changes, see the <a href="https://github.com/OnsenUI/OnsenUI/blob/master/vue3-onsenui/CHANGELOG.md">CHANGELOG.</a>
-      </p>
-      <p>
-        Vue 2 will continue to be supported. Releases for vue-onsenui v2.x.x are for Vue 2, and releases for Vue 3 will be versioned v3.x.x. Vue 2 releases will be released under the vue-onsenui@legacy tag and Vue 3 releases will be released under the vue-onsenui@latest tag.
+        Vue 2は引き続きサポートされます。 vue-onsenui v2.x.x のリリースは Vue 2 用で、Vue 3 用のリリースは v3.x.x となります。Vue 2 のリリースは vue-onsenui@legacy タグで、Vue 3 のリリースは vue-onsenui@latest タグでリリースされる予定です。
       </p>
       '''
   },
