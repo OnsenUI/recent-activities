@@ -1,5 +1,40 @@
 [
   {
+    date: 2022-09-26T10:48:00+01:00
+    title:
+      '''
+      コミュニティ・フォーラム閉鎖のご案内
+      '''
+    description:
+      '''
+      <p>
+        Onsen UI のバグレポート、機能リクエスト、質問などは、 <a href="https://github.com/OnsenUI/OnsenUI/issues/">GitHub issues ページ</a>をご利用ください。
+      </p>
+      <p>
+        コミュニティの皆様、フォーラムへの投稿ありがとうございました。新しいコミュニケーションチャネルで皆様からのご連絡をお待ちしております。
+      </p>
+      '''
+  },
+  {
+    date: 2022-07-25T10:48:00+01:00
+    title:
+      '''
+      Vue 3をサポートしたvue-onsenui 3.0.0がリリースされました。
+      '''
+    description:
+      '''
+      <p>
+        今回のリリースは大きな変更点があるため、Onsen UIアプリをVue 3にアップグレードするための<a href="http://onsen.io/v2/guide/vue3/index.html#upgrading-from-vue-2">ガイド</a>を用意しております。
+      </p>
+      <p>
+        変更点の全リストは、<a href="https://github.com/OnsenUI/OnsenUI/blob/master/vue3-onsenui/CHANGELOG.md">こちら</a>をご覧ください。
+      </p>
+      <p>
+        Vue 2は引き続きサポートされます。 vue-onsenui v2.x.x のリリースは Vue 2 用で、Vue 3 用のリリースは v3.x.x となります。Vue 2 のリリースは vue-onsenui@legacy タグで、Vue 3 のリリースは vue-onsenui@latest タグでリリースされる予定です。
+      </p>
+      '''
+  },
+  {
     date: 2022-07-25T07:36:01+01:00
     title:
       '''
